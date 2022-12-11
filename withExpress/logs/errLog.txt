@@ -1,2 +1,4 @@
 20221210	19:47:44	bc7fb42e-1914-4fb4-8d3f-7af21ab0cbc8	TypeError: fsPromises.readFil is not a function
 20221211	00:01:32	39c66b88-9b45-420f-9252-4ed297007877	Error: Not allowed by CORS
+20221211	17:24:21	94e838c5-649e-4d96-b6e2-9bba6418b581	Error: ENOENT: no such file or directory, stat '/home/yiorgos/web-server/withExpress/views/subdir/test.html'
+20221211	17:24:30	5be5f3f0-99c5-4b02-b8cc-ce80ed97e462	Error: ENOENT: no such file or directory, stat '/home/yiorgos/web-server/withExpress/views/subdir/test.html'
