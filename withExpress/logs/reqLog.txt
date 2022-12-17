@@ -78,3 +78,5 @@
 20221211	17:56:40	1d4871e8-0eca-41e0-a5c7-44ff28dc961a	GET	undefined	/employees
 20221211	18:06:35	15559bf8-4488-4e17-90b4-f9313f8c82bb	GET	undefined	/employees
 20221211	18:06:42	aa96d9a4-a4e9-45b3-b916-67c90b7ff171	GET	undefined	/employees
+20221217	17:17:17	fa6cb885-b9d5-4ab4-9992-f2d8679abf31	GET	undefined	/
+20221217	17:17:17	813a7b1c-0130-49b3-87c8-5f56487305cb	GET	undefined	/css/style.css
